@@ -2,7 +2,7 @@
 The first project in Youthink Academy front-end bootcamp.
 ## Table of contents
 * [General info](#general-info)
-* [Live_Demo](#blogstation1.netlify.app)
+* [Live_Demo](blogstation1.netlify.app)
 * [Technologies](#technologies)
 * [Setup](#setup)
 
