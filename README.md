@@ -17,7 +17,16 @@ Project is created with:
 * Javascript
 * Formspree for handling form inputs
 * API
-
+</br>
+ <div align="start">
+   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="css3" alt="css3" width="40" height="40"/>&nbsp;
+   <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg" title="bootstrap" alt="bootstrap" width="40" height="40"/>&nbsp;
+   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40"  
+   height="40"/>&nbsp;
+   <img src="https://avatars.githubusercontent.com/u/14319378?s=280&v=4" title="Formspree" alt="Formspree" width="40" height="40"/>&nbsp;
+</div>
+</br>
 ## Demo
 [Live_Demo](https://blogstation1.netlify.app/)
 	
